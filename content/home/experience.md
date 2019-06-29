@@ -17,28 +17,51 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Graduate Research Assistant"
+  company = "TWISC@NSYSU"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Kaohsiung,Taiwan"
+  date_start = "2018-10"
   date_end = ""
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * 5G testbed Creation
+  * Prototype Developement
+  * Modelling Attack Scenarios
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Research Intern"
+  company = "National Chung Cheng University"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Chiayi,Taiwan"
+  date_start = "2018-05"
+  date_end = "2018-08-04"
+  description = """
+  Responsibilities include:
+  
+  * Arima Model Testing
+  * Land Slide Research
+
+  """
+
+[[experience]]
+  title = "Software Developer"
+  company = "Smart Solutions, India."
+  company_url = ""
+  location = "Navi Mumbai"
+  date_start = "2016-12-19"
+  date_end = "2018-02-24"
+  description = """
+  Responsibilities include:
+  
+  * Website Development
+  * Mobile Application Programming
+  * Modelling
+  * Deployment
+  """
 
 +++
