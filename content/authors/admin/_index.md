@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Graduate Student
+role: Graduate Student at Intelligent Communications and Computing Security Lab
 
 # Organizations/Affiliations
 organizations:
@@ -18,24 +18,28 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My interests include 5G, Machine Learning, Deep Learning, Programming.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- 5G
+- Peer to Peer Communication
+- Machine Learning
+- Deep Learning
+- Programming
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: MS in Computer Science and Engineering (Pursuing)
+    institution: National Sun Yat Sen University, Taiwan.
+  - course: BE in Computer Engineering
+    institution: University of Mumbai, India.
+    year: 2016
+  - course: HSC (12th Grade)
+    institution: B. N. Bandodkar College of Science, India.
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: SSC (10th Grade)
+    institution: Dnyandeep Vidya Mandir, India.
+    year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -47,13 +51,13 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/onkar_mumbrekar
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/onkarmumbrekar
+  icon: linkedin
+  icon_pack: fab
+  link: https://tw.linkedin.com/in/onkar-mumbrekar
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -70,6 +74,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Onkar Mumbrekar is a Graduate Master Student at the National Sun Yat Sen University ICCS Lab. His research interests include 5G, Peer to Peer Communication, Machine Learning, and Deep Learning. He is working as Graduate Research Assistant at TWISC@NSYSU. He leads 5G Open Source group, which is deploying 5G testbed using Opensource Technology to perform attacks and propose their counter measures.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+
