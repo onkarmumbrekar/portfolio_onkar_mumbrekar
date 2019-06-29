@@ -27,6 +27,7 @@ disqusShortname = ""
 
 # Name of Academic theme folder in `themes/`.
 theme = "academic"
+custom_css = ["green.css"]
 
 # Get last modified date for content from Git?
 enableGitInfo = false
