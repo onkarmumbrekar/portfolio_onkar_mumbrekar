@@ -27,7 +27,6 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   Responsibilities include:
-  
   * 5G testbed Creation
   * Prototype Developement
   * Modelling Attack Scenarios
@@ -42,10 +41,8 @@ date_format = "Jan 2006"
   date_end = "2018-08-04"
   description = """
   Responsibilities include:
-  
   * Arima Model Testing
   * Land Slide Research
-
   """
 
 [[experience]]
@@ -57,7 +54,6 @@ date_format = "Jan 2006"
   date_end = "2018-02-24"
   description = """
   Responsibilities include:
-  
   * Website Development
   * Mobile Application Programming
   * Modelling
