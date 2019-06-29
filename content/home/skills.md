@@ -22,7 +22,7 @@ subtitle = ""
 
 [[feature]]
 icon = "file-code"
-icon_pack = "fab"
+icon_pack = "fas"
 name = "Web Developement"
 description = "90%"
   
