@@ -67,7 +67,7 @@ contact_links = [
   {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/onkar_mumbrekar"},
   {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:onkar.mumbrekar?call"},
   #{icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
-  {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@onkarm1995"},
+  {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/onkarm1995"},
   ]
 
 # Display a map.
