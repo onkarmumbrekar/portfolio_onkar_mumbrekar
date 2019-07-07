@@ -16,7 +16,7 @@
 
 [[main]]
   name = "OAI Tutorials"
-  url = "/oai"
+  url = "oai/"
   weight = 20
 
 # [[main]]
