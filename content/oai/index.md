@@ -1,4 +1,5 @@
 ---
+type = "widget_page"
 title: OAI Tutorials
 summary: 
 date: "2019-07-07T00:00:00Z"
