@@ -14,14 +14,9 @@ header:
 
 ---
 
-# EPC Installation
-
 ## All EPC components ( HSS, MME, SPGW ) in one virtual machine (Ubuntu Bionic 18.04) Hosted on host (Ubuntu Xenial 16.04).
 
-
-
 ### STEP 1 : Create virtual machine on host computer (Ubuntu Xenial 16.04)
-
 
 **1. Update Host computer**
 ```
